@@ -1,0 +1,84 @@
+#theme {
+    background-color: burlywood;
+    height: 70px;
+    text-shadow: 3px 3px 5px gray;
+}
+#gambar {
+    background-image: url(/assets/image/masjid-nabawi.jpg);
+    background-size: cover;
+    padding-top: 10%;
+    padding-bottom: 20%;
+    width: 100%;
+    height: 50vw;
+}
+#main-title {
+    color: seashell;
+    text-shadow: 3px 3px 5px gray;
+}
+#about {
+    padding-top: 2vw;
+    background-color: wheat;
+
+}
+#about-title {
+    text-shadow: 3px 3px 5px gray;
+}
+#about-content {
+    text-align: justify;
+    padding-top: 3%;
+    text-shadow: 3px 3px 5px gray;
+}
+#masjid-pict {
+    padding-top: 2%;
+}
+#galeri {
+    background-color: wheat;
+}
+#galeri-title {
+    text-shadow: 3px 3px 5px gray;
+}
+#picture {
+    padding-top: 5%;
+}
+#slideshow {
+    position: relative;
+}
+#structure {
+    padding-top: 10%;
+    background-color: wheat;
+}
+#structure-title {
+    text-shadow: 3px 3px 5px gray;
+}
+#structure-list {
+    width: 50%;
+    margin-left: 25%;
+    padding-top: 5%;
+    padding-bottom: 10%;
+    text-shadow: 3px 3px 5px gray;
+}
+#list-one {
+    background-color: wheat;
+}
+#list-two {
+    background-color: wheat;
+}
+#list-three {
+    background-color: wheat;
+}
+#list-four {
+    background-color: wheat;
+}
+#list-five {
+    background-color: wheat;
+}
+#list-six {
+    background-color: wheat;
+}
+#footer {
+    padding-top: 1vw;
+}
+#theme-footer {
+    background-color: burlywood;
+}
+
