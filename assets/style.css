@@ -4,7 +4,7 @@
     text-shadow: 3px 3px 5px gray;
 }
 #gambar {
-    background-image: url(/image/masjid-nabawi.jpg);
+    background-image: url(/assets/image/masjid-nabawi.jpg);
     background-size: cover;
     padding-top: 10%;
     padding-bottom: 20%;
