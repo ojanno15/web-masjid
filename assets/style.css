@@ -118,14 +118,20 @@ body {
 }
 #card-one {
     padding-bottom: 3vw;
+    background-color: wheat;
 }
 #card-two {
     padding-bottom: 3vw;
+    background-color: wheat;
 }
 #card-three {
     padding-bottom: 3vw;
+    background-color: wheat;
 }
 #card-footer {
+    background-color: wheat;
+}
+#card-item {
     background-color: wheat;
 }
 #footer {
