@@ -41,6 +41,7 @@ body {
     padding-top: 10vw;
     padding-bottom: 10vw;
     text-shadow: 3px 3px 5px gray;
+    height: 100%;
 }
 #rec-title {
     text-shadow: 3px 3px 5px gray;
@@ -108,6 +109,22 @@ body {
     background-color: wheat;
 }
 #list-six {
+    background-color: wheat;
+}
+#title-album {
+    padding-top: 5vw;
+    padding-bottom: 5vw;
+}
+#card-one {
+    padding-bottom: 3vw;
+}
+#card-two {
+    padding-bottom: 3vw;
+}
+#card-three {
+    padding-bottom: 3vw;
+}
+#card-footer {
     background-color: wheat;
 }
 #footer {
