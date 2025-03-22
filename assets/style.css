@@ -114,6 +114,7 @@ body {
 #title-album {
     padding-top: 5vw;
     padding-bottom: 5vw;
+    text-shadow: 3px 3px 5px gray;
 }
 #card-one {
     padding-bottom: 3vw;
